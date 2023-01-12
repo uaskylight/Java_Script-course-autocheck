@@ -1,7 +1,6 @@
 // Change code below this line
-const productName = "Droid";
-// console.log(productName);
-// 'Droid'
-const pricePerItem = 2000;
-// console.log(pricePerItem);
-// 2000
+const topSpeed = 160;
+const distance = 617.54;
+const login = "mango935";
+const isOnline = true;
+const isAdmin = false;
