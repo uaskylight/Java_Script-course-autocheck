@@ -1,4 +1,5 @@
-Complete the code by assigning to the variable totalPrice an expression for calculating the total amount of the order. The variable pricePerItem stores the price of one product unit, and orderedQuantity - the number of product units in the order.
+Complete the code by assigning to the variable totalPrice an expression for calculating the total amount of the order. 
+The variable pricePerItem stores the price of one product unit, and orderedQuantity - the number of product units in the order.
 
 The variable pricePerItem is declared
 The value of the variable pricePerItem is the number 3500
