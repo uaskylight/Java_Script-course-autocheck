@@ -1,3 +1,4 @@
 # Java_Script-course-autocheck
 
-README.en.md,README.ua.md
+**Read in other languages: [Русский](README.md), [Українська](README.ua.md),
+[English](README.en.md), [Español](README.es.md), [Polski](README.pl.md).**
