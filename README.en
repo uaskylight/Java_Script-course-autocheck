@@ -1,4 +1,5 @@
-The name of the item has been changed to "Repair droid" and its price was increased by 1500 credits. Override the values of the pricePerItem and productName variables after they are declared.
+The name of the item has been changed to "Repair droid" and its price was increased by 1500 credits. 
+Override the values of the pricePerItem and productName variables after they are declared.
 
 TESTS
 
