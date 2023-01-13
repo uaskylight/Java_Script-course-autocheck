@@ -1,0 +1,8 @@
+Modify the code of the add function so that it returns the result of adding the values ​​of the three parameters a, b and c.
+
+The function add(a, b, c) is declared
+The add function has a return operator
+The call add(15, 27, 10) returns52
+The calladd(10, 20, 30) returns 60
+The call add(5, 10, 15) returns 30
+Calling a function with random but valid arguments returns the correct value
