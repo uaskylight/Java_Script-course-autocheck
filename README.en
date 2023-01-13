@@ -1,20 +1,7 @@
-A shop selling repair droids is ready to open, it remains to write a script to order them. 
-Declare the variables and assign the appropriate values to them:
+Declare a sayHi function, inside which you should add console.log() with the string "Hello, this is my first function!". 
+After the declaration, call the sayHi function.
 
-pricePerDroid - price per one droid, value 800
-orderedQuantity - a number of droids in the order, value 6
-deliveryFee - delivery fee, value 50
-totalPrice - total price, do not forget about the delivery fee
-message - message about the status of the order in the format "You ordered droids worth <total price> credits.
-Delivery (<delivery fee> credits) is included in total price."
-The variable orderedQuantity is declared
-The value of the orderedQuantity variable is the number 6
-The variable pricePerDroid is declared
-The value of the pricePerDroid variable is the number 800
-The variable deliveryFee is declared
-The value of the deliveryFee variable is the number 50
-The variable totalPrice is declared
-The value of the totalPrice variable is the number 4850
-The variable message is declared
-The value of the message variable is the string "You ordered droids worth 4850 credits. 
-Delivery (50 credits) is included in total price."
+Function declaration expected
+The name sayHi is assigned to the function
+The body of the sayHi function contains console.log("Hello, this is my first function!")
+After the declaration, there is a call to the sayHi function
