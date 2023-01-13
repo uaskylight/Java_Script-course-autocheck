@@ -1,4 +1,5 @@
-Declare two variables, productName for the product name and pricePerItem for storing the price per item. When declaring, assign the following product characteristics to the variables:
+Declare two variables, productName for the product name and pricePerItem for storing the price per item. 
+When declaring, assign the following product characteristics to the variables:
 
 name - string "Droid"
 price per item - number 2000
