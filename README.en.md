@@ -1,0 +1,18 @@
+The makeOrderMessage(orderedQuantity, pricePerDroid, deliveryFee) function composes and returns 
+a repair droid purchase message.
+ It declares three parameters, the values ​​of which will be set during its call.
+
+orderedQuantity - number of droids in the order
+pricePerDroid - price per droid
+deliveryFee - delivery fee
+Modify the function code so that it returns an order message in the format 
+"You ordered droids worth <total price> credits. Delivery (<delivery fee> credits) 
+is included in total price.". Don't forget about the delivery fee when calculating the total price.
+
+The function makeOrderMessage(orderedQuantity, pricePerDroid, deliveryFee) is declared
+The call makeOrderMessage(2, 100, 50) returns "You ordered droids worth 250 credits. 
+Delivery (50 credits) is included in total price."
+The call makeOrderMessage(4, 300, 100) returns "You ordered droids worth 1300 credits. 
+Delivery (100 credits) is included in total price."
+The call makeOrderMessage(10, 70, 200) returns "You ordered droids worth 900 credits. 
+Delivery (200 credits) is included in total price."
