@@ -1,3 +1,6 @@
+**Read in other languages: [Русский](README.md), [Українська](README.ua.md),
+[English](README.en.md), [Español](README.es.md), [Polski](README.pl.md).**
+
 Declare two variables, productName for the product name and pricePerItem for storing the price per item. 
 When declaring, assign the following product characteristics to the variables:
 
