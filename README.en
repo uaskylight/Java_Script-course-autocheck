@@ -1,3 +1,6 @@
+**Read in other languages: [Русский](README.md), [Українська](README.ua.md),
+[English](README.en.md), [Español](README.es.md), [Polski](README.pl.md).**
+
 The makeOrderMessage(orderedQuantity, pricePerDroid, deliveryFee) function composes and returns 
 a repair droid purchase message.
  It declares three parameters, the values ​​of which will be set during its call.
